@@ -1,2 +1,6 @@
-package com.corenetworks.modelo;public class TipoDatos {
+package com.corenetworks.modelo;
+
+public class TipoDatos {
+
+
 }

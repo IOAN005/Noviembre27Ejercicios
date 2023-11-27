@@ -1,9 +1,9 @@
 package com.corenetworks.modelo;
 
-public class Moneda {
+public class Monedasej1 {
 
 
-    public class MonedasEj1 {
+
         public final float b50 = 50;
         public final float b20 = 20;
 
@@ -77,4 +77,4 @@ public class Moneda {
 
     }
 
-    }
+

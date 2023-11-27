@@ -1,9 +1,12 @@
 package com.corenetworks.presentacion;
 
-public class Monedasejs1 {
+import com.corenetworks.modelo.Monedasej1;
+
+public class ProbarMonenedasejs1 {
     public static void main(String[] args){
-        Monedasejs1 objmoneda =new Monedasejs1();
-        System.out.println(objmoneda.ca);
+        Monedasej1 objmoneda=new Monedasej1();
+        System.out.println(objmoneda.cambioBilletes(200,163.27F));
+
 
 
     }
